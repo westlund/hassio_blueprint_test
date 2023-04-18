@@ -1,1 +1,2 @@
-# hassio-aqara-wms-blueprint
+# Aqara Wireless Mini Switch Blueprint for Home Assistant
+
