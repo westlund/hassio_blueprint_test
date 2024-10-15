@@ -1,7 +1,7 @@
 blueprint:
   name: TEST Aqara Wireless Mini Switch for use with Zigbee2MQTT
   description: >-
-    One-button dimmer automation using Aqara Wireless Mini Switch with Z2igbee2MQTT [TEST Blueprint]
+    [TEST Blueprint] One-button dimmer automation using Aqara Wireless Mini Switch with Z2igbee2MQTT
   author: Michael Westlund
   domain: automation
   input:
